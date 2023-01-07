@@ -1,6 +1,6 @@
 # Ether Vault to Transfer Etherium
 
-This is a vault contract that remembers the balance of each address that deposits ETH to it and lets them withdraw it when they want to. 
+This is a vault Smart contract that remembers the balance of each address that deposits ETH to it and lets them withdraw it when they want to. 
 
 ## Overview
 
