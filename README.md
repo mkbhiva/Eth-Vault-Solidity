@@ -7,10 +7,10 @@ This is a vault contract that remembers the balance of each address that deposit
 
 ### Usage
 
-**deposit **
+**deposit**\
 The deposit () function lets an account send ETH when calling the function. It saves the amount sent by the sender in a mapping called balances. 
 
-** withdraw**
+**withdraw**\
 The withdraw() function checks the amount against the address of the caller in the balances mapping, sends an equivalent amount of ETH from the contract to the caller, and then updates the balance of the caller to zero.
 
 ## License
